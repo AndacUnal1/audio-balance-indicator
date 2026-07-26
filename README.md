@@ -25,7 +25,13 @@ manufacturing/
   gerber-files.zip
 assets/
   pcb-preview.png
+docs/
+  project-report.pdf
 ```
+
+## Documentation
+
+- [Project report](docs/project-report.pdf)
 
 ## Open the design
 
